@@ -4,3 +4,6 @@
 [submodule "lib/openzeppelin-contracts"]
 	path = lib/openzeppelin-contracts
 	url = https://github.com/openzeppelin/openzeppelin-contracts
+[submodule "lib/halmos-cheatcodes"]
+	path = lib/halmos-cheatcodes
+	url = https://github.com/a16z/halmos-cheatcodes
