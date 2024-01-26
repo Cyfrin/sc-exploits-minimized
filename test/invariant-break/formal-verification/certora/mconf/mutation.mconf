@@ -1,0 +1,10 @@
+{
+  "gambit": {
+    "filename": "test/invariant-break/formal-verification/certora/harness/FVCatchesHarness.sol",
+    "solc": "solc",
+    "num_mutants": 3,
+    "solc_allow_paths": [
+      "."
+    ]
+  }
+}
